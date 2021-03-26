@@ -1,13 +1,13 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/441b48966e9f4b58a643d7c4cee8ba66)](https://app.codacy.com/gh/AnimeKaizoku/SibylSystem?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SibylSystem&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/441b48966e9f4b58a643d7c4cee8ba66)](https://app.codacy.com/gh/pogonoob/SibylSystem?utm_source=github.com&utm_medium=referral&utm_content=pogonoob/SibylSystem&utm_campaign=Badge_Grade_Dashboard)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Repo Size](https://img.shields.io/github/repo-size/AnimeKaizoku/SibylSystem)](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
-[![Stars](https://img.shields.io/github/stars/AnimeKaizoku/SibylSystem?style=social)](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
+[![Repo Size](https://img.shields.io/github/repo-size/pogonoob/SibylSystem)](https://github.com/pogonoob/SibylSystem "Mewtwo 3.0")
+[![Stars](https://img.shields.io/github/stars/pogonoob/SibylSystem?style=social)](https://github.com/pogonoob/SibylSystem "Mewtwo 3.0")
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)](https://github.com/pogonoob/SibylSystem "Mewtwo 3.0")
 
-# Sibyl System
+# Mewtwo 3.0
 > A proactive judgement system for group chats.
 
-[![Sibyl System](https://vignette.wikia.nocookie.net/psychopass/images/7/72/Sibyl_System.png/revision/latest?cb=20141029202159 "Sibyl System")](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
+[![Mewtwo 3.0](https://vignette.wikia.nocookie.net/psychopass/images/7/72/Sibyl_System.png/revision/latest?cb=20141029202159 "Sibyl System")](https://github.com/pogonoob/SibylSystem "Mewtwo 3.0")
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## A Telethon Userbot to make handling spam easer
@@ -49,9 +49,8 @@ You can check help using -
 
 ------------
 
-#### Development and planning
-
-Sibyl is under active development and some future plans include
+#### Development and planning is under active development and some future plans include
+- Mewtwo 3.0 is under developement
 - Gif responses
 - Better and detailed scanning
 - Improved logging, access and replies strings
@@ -88,4 +87,4 @@ Sibyl is under active development and some future plans include
 
 #### Credits
 
-- [Simon](https://github.com/sitischu) for the ID image!
+- [pogonoob](https://github.com/pogonoob) for the ID image!
