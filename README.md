@@ -7,7 +7,7 @@
 # Mewtwo 3.0
 > A proactive judgement system for group chats.
 
-[![Mewtwo 3.0](https://vignette.wikia.nocookie.net/psychopass/images/7/72/Sibyl_System.png/revision/latest?cb=20141029202159 "Sibyl System")](https://github.com/pogonoob/SibylSystem "Mewtwo 3.0")
+[![Mewtwo 3.0](https://telegra.ph/file/51cc84f03b0acf1383193.jpg "Mewtwo 3.0")](https://github.com/pogonoob/SibylSystem "Mewtwo 3.0")
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## A Telethon Userbot to make handling spam easer
